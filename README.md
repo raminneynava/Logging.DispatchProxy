@@ -1,1 +1,1 @@
-# Logging.DispatchProxy
+DispatchProxy in .NET is a powerful abstraction that allows you to create proxy objects dynamically. With LoggingDispatchProxy, you can intercept method calls to log inputs, outputs, and exceptions. This is particularly useful for scenarios like debugging, auditing, or performance monitoring.
